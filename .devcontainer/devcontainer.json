@@ -1,0 +1,15 @@
+{
+"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csharp",
+				"ms-vscode.powershell",
+				"humao.rest-client",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ms-dotnettools.csdevkit",
+				"github.vscode-github-actions"
+			]
+		}
+	}
+}
